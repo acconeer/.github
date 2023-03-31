@@ -1,5 +1,3 @@
-![World Leading Radar Sensors](https://github.com/acconeer/.github/blob/main/images/acconeer-github.jpg) 
-
 ## Develop with the world’s leading radar sensors
 
 Welcome to the Acconeer GitHub area! Below are a few helpful pointers to where to get started or where to get support with your radar application development.
