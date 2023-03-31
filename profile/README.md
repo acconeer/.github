@@ -3,7 +3,7 @@
 ## Develop with the world’s leading radar sensors
 
 Welcome to the Acconeer GitHub area! Below are a few helpful pointers to where to get started or where to get support with your radar application development.
-* [Acconeer Exploration Tool](https://länk/) – an easy-to-use PC application to quickly explore a range of use cases.
+* [Acconeer Exploration Tool](/acconeer-python-exploration) – an easy-to-use PC application to quickly explore a range of use cases.
 
 * Order Acconeer evaluation kits: [acconeer.com/products](https://www.acconeer.com/products/)
 * Need developer support? Visit: [developer.acconeer.com](https://developer.acconeer.com)
